@@ -1,34 +1,31 @@
 ## Danarvelini
-### Senior Web Developer
 
-You can use the [editor on GitHub](https://github.com/Danarvelini/Danhausen_page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h1 align="center"> Daniel Arvelini </h1>
+<table>
+  <tbody>
+    <tr>
+      <td><b>Information</b></td>
+      <td width="50%" rowspan="4">
+        <img alt="Photo" src="./assets/images/avata_4x.png" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>daniel@arvelini.com</li>
+          <li><a href="./pages/links.md">Links</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr><td><b>Showcase</b></td></tr>
+    <tr>
+      <td width="50%">
+        <ul>
+          <li><a href="./pages/education.md">Education</a></li>
+          <li><a href="./pages/experience.md">Experience</a></li>
+          <li><a href="./pages/projects.md">Projects</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
