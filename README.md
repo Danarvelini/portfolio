@@ -1,5 +1,3 @@
-## Danarvelini
-
 <h1 align="center"> Daniel Arvelini </h1>
 <table>
   <tbody>
