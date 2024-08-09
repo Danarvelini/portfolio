@@ -1,6 +1,8 @@
 title: Daniel Arvelini
+description: Senior Web Developer
+
 logo: /assets/images/avatar_4x.jpg
 #description: text below image
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 # theme: jekyll-theme-cayman
