@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+title: Daniel Arvelini
+logo: /assets/images/avatar_4x.jpg
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
+# theme: jekyll-theme-cayman
